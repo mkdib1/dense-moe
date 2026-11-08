@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+nq*
+
+# Folder
+data/
+.venv/
+.hydra/
+src/dense_moe/
